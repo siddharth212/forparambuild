@@ -1,9 +1,8 @@
 pipeline{
 agent any
   
-  parameters{
-  string name:'name'
-  }
+ 
+  
 
 stages{
 stage('helllllll'){
