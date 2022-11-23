@@ -8,13 +8,8 @@ stages{
 stage('helllllll'){
 steps{
 echo 'hello'
-  echo name
+echo name
 }
-
 }
-
-
 }
-
-
 }
